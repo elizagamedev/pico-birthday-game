@@ -1,0 +1,4 @@
+pico-birthday-game
+*.exe
+*.o
+Makefile
